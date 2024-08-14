@@ -1,0 +1,15 @@
+.content{
+    background-color: #fff;
+    border-radius: 16px;
+    padding: 32px;
+    min-height: 70vh;
+}
+
+.title{
+    font-size: 24px;
+    margin-bottom: 24px;
+}
+
+.btn{
+    float: right;
+}

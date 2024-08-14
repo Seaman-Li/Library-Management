@@ -1,0 +1,10 @@
+.tableWrap{
+    overflow: auto;
+    height: calc(100%-80px);
+}
+.button{
+    width:75px;
+}
+.alert{
+    text-align: center;
+}
